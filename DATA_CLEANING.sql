@@ -1,3 +1,4 @@
+-- DATA CLEANING PROJECT --
 USE DATA_CLEANING
 SELECT * FROM dbo.Nashville_housing;
 
